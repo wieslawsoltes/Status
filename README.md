@@ -60,8 +60,6 @@ TODO
 
 ### [Core2D](https://github.com/wieslawsoltes/Core2D)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/wieslawsoltes/core2d/badge)](https://www.codefactor.io/repository/github/wieslawsoltes/core2d)
-
 [![Build Status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/wieslawsoltes.Core2D?repoName=wieslawsoltes%2FCore2D&branchName=master)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=105&repoName=wieslawsoltes%2FCore2D&branchName=master)
 [![CI](https://github.com/wieslawsoltes/Core2D/actions/workflows/build.yml/badge.svg)](https://github.com/wieslawsoltes/Core2D/actions/workflows/build.yml)
 
@@ -81,8 +79,6 @@ TODO
 [![NuGet](https://img.shields.io/nuget/dt/DataBox.svg)](https://www.nuget.org/packages/DataBox)
 
 ### [Dock](https://github.com/wieslawsoltes/Dock)
-
-[![Gitter](https://badges.gitter.im/wieslawsoltes/Dock.svg)](https://gitter.im/wieslawsoltes/Dock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Build Status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/wieslawsoltes.Dock?branchName=master)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=89&branchName=master)
 [![CI](https://github.com/wieslawsoltes/Dock/actions/workflows/build.yml/badge.svg)](https://github.com/wieslawsoltes/Dock/actions/workflows/build.yml)
@@ -135,8 +131,6 @@ TODO
 
 ### [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom)
 
-[![Gitter](https://badges.gitter.im/wieslawsoltes/PanAndZoom.svg)](https://gitter.im/wieslawsoltes/PanAndZoom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 [![Build Status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/wieslawsoltes.PanAndZoom?branchName=master)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=98&branchName=master)
 [![CI](https://github.com/wieslawsoltes/PanAndZoom/actions/workflows/build.yml/badge.svg)](https://github.com/wieslawsoltes/PanAndZoom/actions/workflows/build.yml)
 
@@ -162,8 +156,6 @@ TODO
 TODO
 
 ### [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia)
-
-[![Gitter](https://badges.gitter.im/wieslawsoltes/Svg.Skia.svg)](https://gitter.im/wieslawsoltes/Svg.Skia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Build Status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/wieslawsoltes.Svg.Skia?branchName=master)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=93&branchName=master)
 ![CI](https://github.com/wieslawsoltes/Svg.Skia/workflows/CI/badge.svg)
